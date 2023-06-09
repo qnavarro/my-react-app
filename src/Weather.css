@@ -37,18 +37,18 @@
 	margin-left: -10px;
 }
 
-.Weather img {
-	width: 70px;
-	height: 70px;
+.Weather canvas {
+	width: 60px;
+	height: 60px;
 	display: inline-block;
-	margin-top: -30px;
+	margin-right: 10px;
 }
 
 .Weather .temperature {
 	font-weight: 400;
 	color: #878787;
 	font-size: 55px;
-	line-height: 64px;
+	line-height: 90px;
 }
 
 .Weather .unit {
