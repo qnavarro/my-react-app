@@ -48,7 +48,7 @@
 	font-weight: 400;
 	color: #878787;
 	font-size: 55px;
-	line-height: 90px;
+	line-height: 170px;
 }
 
 .Weather .unit {
@@ -63,4 +63,19 @@
 
 .Weather .temp {
 	display: inline-block;
+}
+
+.WeatherInfo .d-flex {
+	margin-top: -25px;
+	margin-left: -10px;
+}
+
+.WeatherInfo .col-6 ul {
+	display: inline-block;
+	margin-top: 40px;
+	margin-left: 50px;
+}
+
+.WeatherForecast {
+	margin-top: -28px;
 }
